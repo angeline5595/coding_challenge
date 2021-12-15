@@ -1,0 +1,6 @@
+.list{
+  display:flex;
+  flex-direction: row;
+  border:2px soild black;
+  padding:50px;
+}
